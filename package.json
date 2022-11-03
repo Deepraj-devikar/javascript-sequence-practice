@@ -1,0 +1,19 @@
+{
+  "name": "javascript-sequence-practice",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepraj-devikar/javascript-sequence-practice.git"
+  },
+  "keywords": [],
+  "author": "Deepraj Devikar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepraj-devikar/javascript-sequence-practice/issues"
+  },
+  "homepage": "https://github.com/Deepraj-devikar/javascript-sequence-practice#readme"
+}
